@@ -1,4 +1,4 @@
-# The-Neural-Crest-Game
+# The Neural-Crest Game
 
 Welcome to the Neural-Crest Guessing Game! Are you ready to put your knowledge of biology to the test? This game is all about guessing the name of a random tissue that is derived from the neural crest. With each round, you will be presented with a new tissue name, and your task is to guess whether it is fully, partially or not at all derived from the neural crest.
 
